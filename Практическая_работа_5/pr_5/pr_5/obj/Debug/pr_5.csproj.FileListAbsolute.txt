@@ -1,0 +1,10 @@
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\bin\Debug\pr_5.exe.config
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\bin\Debug\pr_5.exe
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\bin\Debug\pr_5.pdb
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\obj\Debug\pr_5.csproj.AssemblyReference.cache
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\obj\Debug\pr_5.Properties.Resources.resources
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\obj\Debug\pr_5.csproj.GenerateResource.cache
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\obj\Debug\pr_5.csproj.CoreCompileInputs.cache
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\obj\Debug\pr_5.exe
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\obj\Debug\pr_5.pdb
+C:\1\ДЗ\4 курс\Устройство ИС\pr_5\pr_5\obj\Debug\pr_5.exe.config
