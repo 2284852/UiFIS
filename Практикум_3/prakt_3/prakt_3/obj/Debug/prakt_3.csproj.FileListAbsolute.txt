@@ -1,0 +1,11 @@
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\bin\Debug\prakt_3.exe.config
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\bin\Debug\prakt_3.exe
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\bin\Debug\prakt_3.pdb
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\obj\Debug\prakt_3.csproj.AssemblyReference.cache
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\obj\Debug\prakt_3.Form1.resources
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\obj\Debug\prakt_3.Properties.Resources.resources
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\obj\Debug\prakt_3.csproj.GenerateResource.cache
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\obj\Debug\prakt_3.csproj.CoreCompileInputs.cache
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\obj\Debug\prakt_3.exe
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\obj\Debug\prakt_3.pdb
+C:\1\ДЗ\4 курс\Устройство ИС\prakt_3\prakt_3\obj\Debug\prakt_3.exe.config
